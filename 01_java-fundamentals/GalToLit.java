@@ -1,6 +1,6 @@
 // This program converts gallons to litres.
 class GalToLit {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         double gallons;
         double litres;
 
