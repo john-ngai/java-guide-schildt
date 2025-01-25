@@ -29,6 +29,36 @@ D. `67count`
 
 The invalid variable is D. Variable names cannot begin with a digit.
 
-6. How do you create a sing-eline comment? How do you create a multiline comment?
+6. How do you create a singe-line comment? How do you create a multiline comment?
+
+A single-line comment begins with `//` and ends at the end of the line. A multi-line comment begins with `/*` and ends
+with `*/`.
+
+7. Show the general form of the `if` statement. Show the general form of the `for` loop.
+
+The general form of the `if` statement:
+
+```
+if(conditional) statement;
+```
+
+The general form of the `for` loop:
+
+```
+for(initializer; condition; iteration) statement;
+```
+
+8. How do you create a block of code?
+
+A block of code started with an opening curly brace `{` and ended with a closing curly brace `}`.
+
+9. The moon's gravity is about 17 percent of that of the Earth's. Write a program that computes your effective weight on
+   the moon.
+
+[MoonEarthGravity.java](MoonEarthGravity.java)
+
+10. Write a program that prints a conversion table of inches to metres. Display 12 feet of conversions, inch-by-inch.
+    Output a blank line every 12 inches. One metre equals approximately 39.37 inches. One foot is equal to 12
+    inches.
 
 TBA

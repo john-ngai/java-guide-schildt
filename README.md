@@ -25,3 +25,7 @@ To run this file within the JVM, use the `java` command. For example,
 # If the file name is ClassName.class
 java ClassName
 ```
+
+## Self Tests
+
+- [Chapter 1 Self Test: Java Fundamentals](01_java-fundamentals/01-self-test.md)
