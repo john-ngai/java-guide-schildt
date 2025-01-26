@@ -2,7 +2,7 @@
 
 1. What is bytecode and why is it important to Java's use for Internet programing?
 
-Bytecode is a highly optimized set of instructions that is executed by the JAva Virtual Machine. Bytecode helps Java
+Bytecode is a highly optimized set of instructions that is executed by the Java Virtual Machine. Bytecode helps Java
 achieve both portability and security.
 
 2. What are the three main principles of object-oriented programming?
@@ -50,7 +50,7 @@ for(initializer; condition; iteration) statement;
 
 8. How do you create a block of code?
 
-A block of code started with an opening curly brace `{` and ended with a closing curly brace `}`.
+A block of code starts with an opening curly brace `{` and ends with a closing curly brace `}`.
 
 9. The moon's gravity is about 17 percent of that of the Earth's. Write a program that computes your effective weight on
    the moon.
@@ -61,4 +61,12 @@ A block of code started with an opening curly brace `{` and ended with a closing
     Output a blank line every 12 inches. One metre equals approximately 39.37 inches. One foot is equal to 12
     inches.
 
-TBA
+[InchesToMetres.java](InchesToMetres.java)
+
+11. If you make a typing mistake when entering your program, what sort of error will result?
+
+A syntax error.
+
+12. Does it matter where on a line you put a statement?
+
+No, Java is a free-form language.
